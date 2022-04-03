@@ -1,2 +1,2 @@
-this file has mistakes
-miskae number oe is 
+This file has mistakes.
+Mistake number one is fixed.
